@@ -71,9 +71,17 @@ For both maps, think a bit about the audience of the map, and pay attention to y
   
   
   
+   
+## Exercise 5 grade and feedback: 20.0 / 20.0 points
+### Grader
+- sonjakoivisto
+### Problem scores
+- Problem 1: 10.0 / 10.0 
+- Problem 2: 10.0 / 10.0 
+- Problem 3: :sunny: / 0.0
+### Comments
   
-  
-  
+Cool and informative maps with an interesting topic! :sunny: For the static maps, it'd be nice to add titles for the maps, especially when plotting two side by side. Next, you could be brushing them up with scale bar and north arrow :smile: The font awesome hasn't been working with folium for a while and folium is a bit blah for not letting you control the relative markersize either :( Despite that nice maps and nicely counted the kids/ teens in the influence area. Interesting to always read your well-documented work as a story of the process :smile:
   
   
   
